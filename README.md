@@ -5,9 +5,8 @@
 **Toolbox**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=solidity,ts,js,nodejs,vue,react,mongodb,git,linux" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vue,html,css,nodejs,solidity,git,linux" />
 </p>
-
 ---
 
 ## What I do

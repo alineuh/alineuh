@@ -26,7 +26,7 @@
 ---
 
 ## Goals
-- Looking for opportunities as a **Junior Developer** (Web3 / Backend / Full-stack)
+- Looking for opportunities as a **Junior Developer** (Web3 / Backend / Frontend / Full-stack)
 - Improving project quality: docs, tests, CI, clean architecture
 
 ---
